@@ -1149,7 +1149,7 @@ const videos = [
     thumbnail: "https://pix-fl.phncdn.com/c6251/videos/202508/13/19123705/original/0199cb91-5da0-7436-b246-2d67896dcd7d.png/plain/rs:fit:640:360?hdnea=st=1776884650~exp=1776971050~hdl=-1~hmac=aee66e389f57958036a44f4ec948a41ee1de78cc",
     url: "https://de.pornhub.com/view_video.php?viewkey=689c54121ade8"
   },
-  {
+{
     id: "custom-140",
     title: "Wild Threesome with Sexy Czech Pussy Alexis Crystal and Tru Kait",
     description: "Wild Threesome with Sexy Czech Pussy Alexis Crystal and Tru Kait",
@@ -1158,7 +1158,7 @@ const videos = [
     thumbnail: "https://pix-fl.phncdn.com/c6371/videos/202604/08/44725355/original_44725355.mp4/plain/ex:1:no/bg:0:0:0/rs:fit:640:360/vts:245?hdnea=st=1776884654~exp=1776971054~hdl=-1~hmac=783e00b6e2a655b26d8778a371148c01d0e178fc",
     url: "https://de.pornhub.com/view_video.php?viewkey=69d6cd36b6f79"
   },
-  {
+{
     id: "custom-141",
     title: "Squirt Tennis: End a Hard Workout with a Splash",
     description: "Squirt Tennis: End a Hard Workout with a Splash",
@@ -1167,16 +1167,16 @@ const videos = [
     thumbnail: "https://pix-fl.phncdn.com/c6251/videos/202604/13/45117515/original/019d866c-3165-7294-9ee5-9eda3c49d682.jpg/plain/rs:fit:640:360?hdnea=st=1776884658~exp=1776971058~hdl=-1~hmac=0f55d961c8ae844fa56bea0d92cb57754e38c165",
     url: "https://de.pornhub.com/view_video.php?viewkey=69dc71d3bde5b"
   },
-  {
+{
     id: "custom-142",
     title: "'Babe, That’s the Wrong Hole!' – “Too Late Now”",
     description: "'Babe, That’s the Wrong Hole!' – “Too Late Now”",
     channel: "Pornhub",
     platform: "custom",
-    thumbnail: "images/no-thumbnail.jpg",
+    thumbnail: "https://pix-fl.phncdn.com/c6251/videos/202507/09/15008465/original/01982fc3-fc67-73c9-b8e7-add6dc4609b6.jpg/plain/rs:fit:640:360?hdnea=st=1776965895~exp=1777052295~hdl=-1~hmac=6ccdb123b0669cf7edb4d7f53adde973cd95cc59",
     url: "https://de.pornhub.com/view_video.php?viewkey=686dbba0cc4d4"
   },
-  {
+{
     id: "custom-143",
     title: "The best blowjobs in history, now all in one video!",
     description: "The best blowjobs in history, now all in one video!",
@@ -1185,99 +1185,593 @@ const videos = [
     thumbnail: "https://pix-fl.phncdn.com/c6371/videos/202511/18/29998315/original_29998315.mp4/plain/ex:1:no/bg:0:0:0/rs:fit:640:360/vts:390?hdnea=st=1776884665~exp=1776971065~hdl=-1~hmac=3b1e08815258069c0c7898ed6e3704f0355c93dd",
     url: "https://de.pornhub.com/view_video.php?viewkey=691bca6c1e524"
   },
-  {
+{
     id: "custom-144",
     title: "New Squirt/Humps Try Not to Cum Challenge - Level: NO CHANCE",
     description: "New Squirt/Humps Try Not to Cum Challenge - Level: NO CHANCE",
     channel: "Pornhub",
     platform: "custom",
-    thumbnail: "images/no-thumbnail.jpg",
+    thumbnail: "https://pix-fl.phncdn.com/c6251/videos/202603/18/42439265/original/019d0344-b3b9-75b3-9a6c-f8bb7b9e9306.png/plain/rs:fit:640:360?hdnea=st=1776965901~exp=1777052301~hdl=-1~hmac=e53e0fd8c0e86c50cdf151c9e521c52d20e9af9d",
     url: "https://de.pornhub.com/view_video.php?viewkey=69babc54e5f1f"
+  },
+  {
+    id: "custom-145",
+    title: "Amateur Latina squirts hard while straining",
+    description: "Amateur Latina squirts hard while straining",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://pix-fl.phncdn.com/c6371/videos/202603/31/43913105/original_43913105.mov/plain/ex:1:no/bg:0:0:0/rs:fit:640:360/vts:186?hdnea=st=1776965904~exp=1777052304~hdl=-1~hmac=535cde5923855157b6701660b634444a84896660",
+    url: "https://de.pornhub.com/view_video.php?viewkey=69cbf12fa2b53"
+  },
+  {
+    id: "custom-146",
+    title: "🌈Rainbow Wetting Fantasy Compilation – Peeing Through All the Colours🌈",
+    description: "🌈Rainbow Wetting Fantasy Compilation – Peeing Through All the Colours🌈",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "images/no-thumbnail.jpg",
+    url: "https://it.pornhub.com/view_video.php?viewkey=68606c14678b3"
+  },
+  {
+    id: "custom-147",
+    title: "Goth Teen Squirts on Step Brother's Cock - Valerica Steele - Family Therapy - Alex Adams",
+    description: "Goth Teen Squirts on Step Brother's Cock - Valerica Steele - Family Therapy - Alex Adams",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://ei.phncdn.com/videos/202309/16/439538651/original/(m=qI_MTWYbeaAaGwObaaaa)(mh=0zdgXJ72f7gRTwzq)0.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=650606079aedd"
+  },
+  {
+    id: "custom-148",
+    title: "Goth Babe VALERICA STEELE Squirts From Big Dick Trans Girl EVA MAXIM",
+    description: "Goth Babe VALERICA STEELE Squirts From Big Dick Trans Girl EVA MAXIM",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://ei.phncdn.com/videos/202401/09/446173211/original/(m=q_5065YbeaAaGwObaaaa)(mh=0peSsyurgJc3HE9e)0.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=659c8d7b8b7c6"
+  },
+  {
+    id: "custom-149",
+    title: "Valerica Steele says, 'Let me Show You What a Squirter Is' - S34:E8",
+    description: "Valerica Steele says, 'Let me Show You What a Squirter Is' - S34:E8",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://ei.phncdn.com/videos/202411/25/461003591/original/(m=qOQ843ZbeaAaGwObaaaa)(mh=1zA2xsEaU5nOt3f6)0.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=6744c2b5e6c4e"
+  },
+  {
+    id: "custom-150",
+    title: "Stepdad can't hold his cum and creampies her",
+    description: "Stepdad can't hold his cum and creampies her",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://ei.phncdn.com/videos/202310/05/440642931/original/(m=q-X_8XYbeaAaGwObaaaa)(mh=DfBKDLbN_cU1qqn_)0.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=651df95e8a527"
+  },
+  {
+    id: "custom-151",
+    title: "Please, can I pee? - Alice's desperate desire",
+    description: "Please, can I pee? - Alice's desperate desire",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://ei.phncdn.com/videos/202504/29/467927995/original/(m=eaAaGwObaaaa)(mh=rzwMj4htUiyY83eP)14.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=6810ec74f0c59"
+  },
+  {
+    id: "custom-152",
+    title: "When She Can’t Stop Shaking – Orgasm Compilation💦",
+    description: "When She Can’t Stop Shaking – Orgasm Compilation💦",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://pix-fl.phncdn.com/c6371/videos/202508/10/18803555/original_18803555.mov/plain/ex:1:no/bg:0:0:0/rs:fit:640:360/vts:408?hdnea=st=1776965928~exp=1777052328~hdl=-1~hmac=a6c06cf2dae1d763c4a0c33fb89492d4c3e593b1",
+    url: "https://de.pornhub.com/view_video.php?viewkey=68986ff31c005"
+  },
+  {
+    id: "custom-153",
+    title: "I will use your face however I want! Face sitting and face riding orgasm!",
+    description: "I will use your face however I want! Face sitting and face riding orgasm!",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "images/no-thumbnail.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=6891d2f2dc812"
+  },
+  {
+    id: "custom-154",
+    title: "Premature Ejaculation In Ass After A Real Happy Ending in Massage Parlor In Bangkok at the SPA #2",
+    description: "Premature Ejaculation In Ass After A Real Happy Ending in Massage Parlor In Bangkok at the SPA #2",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://ei.phncdn.com/videos/202408/06/456155301/original/(m=eaAaGwObaaaa)(mh=5-8Hof3D838DhgcA)12.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=66b219002a9f6"
+  },
+  {
+    id: "custom-155",
+    title: "Spitting his cum in his mouth after ruining his orgasm - Mistress Libideux",
+    description: "Spitting his cum in his mouth after ruining his orgasm - Mistress Libideux",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "images/no-thumbnail.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=68f64c93a0c3d"
+  },
+  {
+    id: "custom-156",
+    title: "TheLittleRed Ruined Orgasm Cumshot Compilation 2023 & 2024",
+    description: "TheLittleRed Ruined Orgasm Cumshot Compilation 2023 & 2024",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://ei.phncdn.com/videos/202504/01/466664855/original/(m=q11M5_ZbeaAaGwObaaaa)(mh=5TcWdcAThW21-P05)0.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=67ec723f070a3"
+  },
+  {
+    id: "custom-157",
+    title: "INCREDIBLE CUMSHOT - I TEST MY BOYFRIEND: HOW LONG WILL HIM LAST with this HANDJOB? AMATEUR",
+    description: "INCREDIBLE CUMSHOT - I TEST MY BOYFRIEND: HOW LONG WILL HIM LAST with this HANDJOB? AMATEUR",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://ei.phncdn.com/videos/202301/21/423829691/original/(m=qYQL68XbeaAaGwObaaaa)(mh=zzyYzCaYjIL51OG5)0.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=ph63cc3266b2ac8"
+  },
+  {
+    id: "custom-158",
+    title: "Making Virgins Cum Fast Compilation - StellaPremature - Premature Cowgirl Creampies",
+    description: "Making Virgins Cum Fast Compilation - StellaPremature - Premature Cowgirl Creampies",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://pix-fl.phncdn.com/c6371/videos/202511/02/28388165/original_28388165.mov/plain/ex:1:no/bg:0:0:0/rs:fit:640:360/vts:58?hdnea=st=1776965950~exp=1777052350~hdl=-1~hmac=2e4f1c20f74ff210235a6d1d9b38a3f745c5b28b",
+    url: "https://de.pornhub.com/view_video.php?viewkey=6907084397932"
+  },
+  {
+    id: "custom-159",
+    title: "WHY DID YOU CUM IN ME?",
+    description: "WHY DID YOU CUM IN ME?",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://ei.phncdn.com/videos/202411/08/460237101/original/(m=eaAaGwObaaaa)(mh=b4A2tAu2M3PpaPen)16.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=672df639abef7"
+  },
+  {
+    id: "custom-160",
+    title: "Get me pregnant",
+    description: "Get me pregnant",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://ei.phncdn.com/videos/202311/12/442838521/original/(m=eaAaGwObaaaa)(mh=jFpzEsL5mEjIQYS-)12.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=65501c1809378"
+  },
+  {
+    id: "custom-161",
+    title: "Eating Her Sweet Pussy While Spitting And Fingering Her Ass",
+    description: "Eating Her Sweet Pussy While Spitting And Fingering Her Ass",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://ei.phncdn.com/videos/202406/26/454342661/original/(m=eaAaGwObaaaa)(mh=ldiLgtINH6w3r1Sg)7.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=667b58052805b"
+  },
+  {
+    id: "custom-162",
+    title: "NON-STOP 60 Minutes of SHAKING SQUIRTING ORGASMS - anal, dp, huge dildos",
+    description: "NON-STOP 60 Minutes of SHAKING SQUIRTING ORGASMS - anal, dp, huge dildos",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://ei.phncdn.com/videos/202405/20/452702401/original/(m=qK8H2KZbeaAaGwObaaaa)(mh=lYZI5exGoe-IBSgf)0.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=664abb5c7174e"
+  },
+  {
+    id: "custom-163",
+    title: "I Fucked the Boy and he Cum on my Boobs!",
+    description: "I Fucked the Boy and he Cum on my Boobs!",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://ei.phncdn.com/videos/202406/21/454142601/thumbs_25/(m=eaAaGwObaaaa)(mh=M7mzDiyTooQfZHaz)4.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=6675bdc0db47f"
+  },
+  {
+    id: "custom-164",
+    title: "Erotic Anal Massage For Hot Teen Liya Silver Full Scene",
+    description: "Erotic Anal Massage For Hot Teen Liya Silver Full Scene",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://pix-fl.phncdn.com/c6371/videos/202510/02/24696725/original_24696725.mp4/plain/ex:1:no/bg:0:0:0/rs:fit:640:360/vts:1441?hdnea=st=1776965971~exp=1777052371~hdl=-1~hmac=50ef0d3219711fe10e6f80dbd21214db43c32ea4",
+    url: "https://de.pornhub.com/view_video.php?viewkey=68de536178a5f"
+  },
+  {
+    id: "custom-165",
+    title: "Futa Cumshots and Fucking after growing dicks",
+    description: "Futa Cumshots and Fucking after growing dicks",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://ei.phncdn.com/videos/202411/22/460850681/original/(m=eaAaGwObaaaa)(mh=EnqNmW3cp4sgl2TM)16.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=673fd3b81a728"
+  },
+  {
+    id: "custom-166",
+    title: "After skiing",
+    description: "After skiing",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://ei.phncdn.com/videos/201902/06/206198971/original/(m=eaAaGwObaaaa)(mh=9Lw0naa3XhQ1pysl)14.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=ph5c5b42ad10984"
+  },
+  {
+    id: "custom-167",
+    title: "I Love The Feeling When My Pussy Floods His Cock",
+    description: "I Love The Feeling When My Pussy Floods His Cock",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://ei.phncdn.com/videos/202401/17/446636051/original/(m=q1S8V6YbeaAaGwObaaaa)(mh=xE2XFoFhzzuad0MN)0.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=65a7176723071"
+  },
+  {
+    id: "custom-168",
+    title: "DEEPER - ICONIC SCARLIT - The Scarlit Compilation",
+    description: "DEEPER - ICONIC SCARLIT - The Scarlit Compilation",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://ei.phncdn.com/videos/202205/05/407556621/thumbs_5/(m=eaAaGwObaaaa)(mh=splIBiYEfUdDgpWr)4.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=ph6273b1ba460a9"
+  },
+  {
+    id: "custom-169",
+    title: "SLAYED Dominant Scarlit straps Cecilia in for a wild ride",
+    description: "SLAYED Dominant Scarlit straps Cecilia in for a wild ride",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://ei.phncdn.com/videos/202206/09/409616671/original/(m=q---LQXbeaAaGwObaaaa)(mh=VQBbf1FEouxdqU7X)0.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=ph62a1f85c17220"
+  },
+  {
+    id: "custom-170",
+    title: "Brazzers - Tiffany Watson Is A Sock Sniffing Perv Who Loves The Scent Of Her Cute Roommate Lulu Chu",
+    description: "Brazzers - Tiffany Watson Is A Sock Sniffing Perv Who Loves The Scent Of Her Cute Roommate Lulu Chu",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://ei.phncdn.com/videos/202203/02/403953871/original/(m=q6YHKIXbeaAaGwObaaaa)(mh=rnYnXMFftngkcsrB)0.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=ph621f6d0390b5d"
+  },
+  {
+    id: "custom-171",
+    title: "18-year-old tells me about her masturbation fantasies and how she fucked another guy.",
+    description: "18-year-old tells me about her masturbation fantasies and how she fucked another guy.",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "images/no-thumbnail.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=6963aff765c89"
+  },
+  {
+    id: "custom-172",
+    title: "Stepdaughter: 'My Boyfriend Can’t Handle My Pussy, Can You Fuck Me As I Deserve?'",
+    description: "Stepdaughter: 'My Boyfriend Can’t Handle My Pussy, Can You Fuck Me As I Deserve?'",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://pix-fl.phncdn.com/c6251/videos/202601/28/37646485/original/019c0a25-b7ec-7b59-9d15-e800d105873b.png/plain/rs:fit:640:360?hdnea=st=1776965999~exp=1777052399~hdl=-1~hmac=838966e24ba329460cb5bd9e1362218a250765b2",
+    url: "https://de.pornhub.com/view_video.php?viewkey=697a27ef78417"
+  },
+  {
+    id: "custom-173",
+    title: "College Freshman Gets USED by a D1 Football Player!",
+    description: "College Freshman Gets USED by a D1 Football Player!",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "images/no-thumbnail.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=6898f8d80e3f8"
+  },
+  {
+    id: "custom-174",
+    title: "Sorority Girl gets Cum on her Bikini!",
+    description: "Sorority Girl gets Cum on her Bikini!",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://ei.phncdn.com/videos/202404/25/451586931/original/(m=eaAaGwObaaaa)(mh=vqAHEHUYOgbSgyl-)13.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=662aab0ba7f70"
+  },
+  {
+    id: "custom-175",
+    title: "Pussy Squirting By It's Self While She Sucks Cock",
+    description: "Pussy Squirting By It's Self While She Sucks Cock",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://ei.phncdn.com/videos/202106/16/389728241/original/(m=eaAaGwObaaaa)(mh=1YEP_6L0rIGHF7XE)12.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=ph60ca7e34e5292"
+  },
+  {
+    id: "custom-176",
+    title: "Bella Cruel: Shoot Your Big Load While Spit Shining My Feet",
+    description: "Bella Cruel: Shoot Your Big Load While Spit Shining My Feet",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://ei.phncdn.com/videos/202402/18/448315491/original/(m=eaAaGwObaaamqv)(mh=ha_K_j5h2RmFo0Yk)7.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=65d195f918a70"
+  },
+  {
+    id: "custom-177",
+    title: "My fetish slave girl swallows my saliva and piss until I cum - Lesbian_illusion",
+    description: "My fetish slave girl swallows my saliva and piss until I cum - Lesbian_illusion",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://ei.phncdn.com/videos/202305/29/432512891/original/(m=eaAaGwObaaaa)(mh=cbfpDKOs_c_f2sfN)5.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=64750737ae098"
+  },
+  {
+    id: "custom-178",
+    title: "Real student orgy with 3 girls squirting & pissing on girl - Lika Clarke & Amanda Clarke & Milka Pt4",
+    description: "Real student orgy with 3 girls squirting & pissing on girl - Lika Clarke & Amanda Clarke & Milka Pt4",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://ei.phncdn.com/videos/202312/12/444633091/original/(m=qZOSO4YbeaAaGwObaaaa)(mh=SZ8zG1xRtWhD8-Yi)0.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=65787b5b9cd4d"
+  },
+  {
+    id: "custom-179",
+    title: "These Hot Skinny Girls are just Toilets - Long Piss Compilation",
+    description: "These Hot Skinny Girls are just Toilets - Long Piss Compilation",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://ei.phncdn.com/videos/201803/01/156423812/original/(m=eaAaGwObaaaa)(mh=sgmopwrxIH95Vsto)15.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=ph5a978d03dfd61"
+  },
+  {
+    id: "custom-180",
+    title: "The Fantastic Pissing fantasy Reloaded",
+    description: "The Fantastic Pissing fantasy Reloaded",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://ei.phncdn.com/videos/202405/18/452630741/thumbs_5/(m=eaAaGwObaaaa)(mh=bmOsbYkXlysh-s9S)1.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=664874adc0dff"
+  },
+  {
+    id: "custom-181",
+    title: "I couldn't hold it and I came in my pants during the lapdance",
+    description: "I couldn't hold it and I came in my pants during the lapdance",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "https://ei.phncdn.com/videos/202308/23/438005901/original/(m=q5PLTUYbeaAaGwObaaaa)(mh=p0CwdD-PHyfkU3No)0.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=64e66fb3a0019"
+  },
+  {
+    id: "custom-182",
+    title: "ULTIMATE JEANS PEE DESPERATION COMPILATION: Omorashi Teen Bursts & Pisses Her Jeans Twice - Can't Hold It Anymore!",
+    description: "ULTIMATE JEANS PEE DESPERATION COMPILATION: Omorashi Teen Bursts & Pisses Her Jeans Twice - Can't Hold It Anymore!",
+    channel: "Pornhub",
+    platform: "custom",
+    thumbnail: "images/no-thumbnail.jpg",
+    url: "https://de.pornhub.com/view_video.php?viewkey=699779e335611"
   }
 ];
 
-function displayAllVideos() {
-  const resultsContainer = document.getElementById("results");
-  const searchStatus = document.getElementById("search-status");
-  const searchInput = document.getElementById("search-input");
-
-  searchInput.value = "";
-  searchStatus.textContent = "Alle Videos werden angezeigt";
-
-  if (videos.length === 0) {
-    resultsContainer.innerHTML =
-      '<div class="no-results">Keine Videos gefunden.</div>';
-    return;
-  }
-
-  let html = "";
-  videos.forEach((video) => (html += createVideoCard(video)));
-  resultsContainer.innerHTML = html;
-  attachClickHandlers();
-}
+let currentPage = 1;
+const itemsPerPage = 25;
+let currentList = [...videos];
 
 function createVideoCard(video) {
   let platformURL;
   let thumbnail;
 
   if (video.platform === "custom") {
-    platformURL = video.url;
-    thumbnail = video.thumbnail;
+    platformURL = video.url || "#";
+    thumbnail = video.thumbnail || "images/no-thumbnail.jpg";
   } else {
     platformURL = `https://www.youtube.com/watch?v=${video.id}`;
     thumbnail = `https://img.youtube.com/vi/${video.id}/hqdefault.jpg`;
   }
 
   return `
-                <div class="video-card" data-url="${platformURL}">
-                    <div class="thumbnail">
-                        <img src="${thumbnail}" alt="${video.title}">
-                        <div class="play-icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="white">
-                                <path d="M8 5v14l11-7z"/>
-                            </svg>
-                        </div>
-                    </div>
-                    <div class="video-info">
-                        <h3 class="video-title">${video.title}</h3>
-                        <p class="video-description">${video.description}</p>
-                        <div class="video-channel">
-                            <span>${video.channel}</span>
-                        </div>
-                    </div>
-                </div>
-            `;
+    <div class="video-card" data-url="${platformURL}">
+      <div class="thumbnail">
+        <img
+          src="${thumbnail}"
+          alt="${escapeHtml(video.title)}"
+          loading="lazy"
+          onerror="this.onerror=null;this.src='images/no-thumbnail.jpg';"
+        >
+        <div class="play-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="white">
+            <path d="M8 5v14l11-7z"/>
+          </svg>
+        </div>
+      </div>
+      <div class="video-info">
+        <h3 class="video-title">${escapeHtml(video.title || "Ohne Titel")}</h3>
+        <p class="video-description">${escapeHtml(video.description || "Ohne Beschreibung")}</p>
+        <div class="video-channel">
+          <span>${escapeHtml(video.channel || "Unbekannt")}</span>
+        </div>
+      </div>
+    </div>
+  `;
+}
+
+function escapeHtml(text) {
+  if (typeof text !== "string") return "";
+  return text
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;");
+}
+
+function renderPage() {
+  const resultsContainer = document.getElementById("results");
+  const pageInfo = document.getElementById("page-info");
+
+  if (!resultsContainer) return;
+
+  if (currentList.length === 0) {
+    resultsContainer.innerHTML =
+      '<div class="no-results">Keine Videos gefunden.</div>';
+    const pagination = document.getElementById("pagination");
+    if (pagination) pagination.innerHTML = "";
+    if (pageInfo) pageInfo.textContent = "";
+    return;
+  }
+
+  const totalPages = Math.ceil(currentList.length / itemsPerPage);
+  if (currentPage > totalPages) currentPage = totalPages;
+
+  const start = (currentPage - 1) * itemsPerPage;
+  const end = start + itemsPerPage;
+  const pageItems = currentList.slice(start, end);
+
+  let html = "";
+  pageItems.forEach((video) => {
+    html += createVideoCard(video);
+  });
+
+  resultsContainer.innerHTML = html;
+
+  if (pageInfo) {
+    pageInfo.textContent = `Seite ${currentPage} von ${totalPages} • ${currentList.length} Videos`;
+  }
+
+  attachClickHandlers();
+  renderPagination();
+}
+
+function renderPagination() {
+  const pagination = document.getElementById("pagination");
+  if (!pagination) return;
+
+  pagination.innerHTML = "";
+
+  const totalPages = Math.ceil(currentList.length / itemsPerPage);
+
+  if (totalPages <= 1) return;
+
+  const prevButton = document.createElement("button");
+  prevButton.textContent = "←";
+  prevButton.className = "pagination-btn";
+  prevButton.disabled = currentPage === 1;
+  prevButton.onclick = () => {
+    if (currentPage > 1) {
+      currentPage--;
+      renderPage();
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    }
+  };
+  pagination.appendChild(prevButton);
+
+  let startPage = Math.max(1, currentPage - 2);
+  let endPage = Math.min(totalPages, currentPage + 2);
+
+  if (currentPage <= 3) {
+    endPage = Math.min(5, totalPages);
+  }
+
+  if (currentPage >= totalPages - 2) {
+    startPage = Math.max(1, totalPages - 4);
+  }
+
+  if (startPage > 1) {
+    pagination.appendChild(createPageButton(1));
+
+    if (startPage > 2) {
+      const dots = document.createElement("span");
+      dots.className = "pagination-dots";
+      dots.textContent = "...";
+      pagination.appendChild(dots);
+    }
+  }
+
+  for (let i = startPage; i <= endPage; i++) {
+    pagination.appendChild(createPageButton(i, i === currentPage));
+  }
+
+  if (endPage < totalPages) {
+    if (endPage < totalPages - 1) {
+      const dots = document.createElement("span");
+      dots.className = "pagination-dots";
+      dots.textContent = "...";
+      pagination.appendChild(dots);
+    }
+
+    pagination.appendChild(createPageButton(totalPages));
+  }
+
+  const nextButton = document.createElement("button");
+  nextButton.textContent = "→";
+  nextButton.className = "pagination-btn";
+  nextButton.disabled = currentPage === totalPages;
+  nextButton.onclick = () => {
+    if (currentPage < totalPages) {
+      currentPage++;
+      renderPage();
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    }
+  };
+  pagination.appendChild(nextButton);
+}
+
+function createPageButton(pageNumber, isActive = false) {
+  const button = document.createElement("button");
+  button.textContent = pageNumber;
+  button.className = isActive
+    ? "pagination-btn active"
+    : "pagination-btn";
+
+  button.onclick = () => {
+    currentPage = pageNumber;
+    renderPage();
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+
+  return button;
 }
 
 function searchVideos(query) {
-  query = query.toLowerCase();
-
-  const filteredVideos = videos.filter(
-    (video) =>
-      video.title.toLowerCase().includes(query) ||
-      video.description.toLowerCase().includes(query) ||
-      video.channel.toLowerCase().includes(query)
-  );
-
-  const resultsContainer = document.getElementById("results");
+  const normalizedQuery = query.trim().toLowerCase();
   const searchStatus = document.getElementById("search-status");
 
-  if (query) {
-    searchStatus.textContent = `Suchergebnisse für: "${query}" (${filteredVideos.length} Videos gefunden)`;
+  const filteredVideos = videos.filter((video) => {
+    const title = (video.title || "").toLowerCase();
+    const description = (video.description || "").toLowerCase();
+    const channel = (video.channel || "").toLowerCase();
+
+    return (
+      title.includes(normalizedQuery) ||
+      description.includes(normalizedQuery) ||
+      channel.includes(normalizedQuery)
+    );
+  });
+
+  if (normalizedQuery) {
+    searchStatus.textContent = `Suchergebnisse für: "${normalizedQuery}" (${filteredVideos.length} Videos gefunden)`;
   } else {
     searchStatus.textContent = "Alle Videos werden angezeigt";
   }
 
-  if (filteredVideos.length === 0) {
-    resultsContainer.innerHTML =
-      '<div class="no-results">Keine Ergebnisse für deine Suche gefunden.</div>';
-    return;
+  currentList = filteredVideos;
+  currentPage = 1;
+  renderPage();
+}
+
+function displayAllVideos() {
+  const searchInput = document.getElementById("search-input");
+  const searchStatus = document.getElementById("search-status");
+
+  if (searchInput) {
+    searchInput.value = "";
   }
 
-  let html = "";
-  filteredVideos.forEach((video) => (html += createVideoCard(video)));
-  resultsContainer.innerHTML = html;
-  attachClickHandlers();
+  if (searchStatus) {
+    searchStatus.textContent = "Alle Videos werden angezeigt";
+  }
+
+  currentList = [...videos];
+  currentPage = 1;
+  renderPage();
+}
+
+function attachClickHandlers() {
+  const videoCards = document.querySelectorAll(".video-card");
+
+  videoCards.forEach((card) => {
+    card.addEventListener("click", function () {
+      const url = this.getAttribute("data-url");
+      if (url && url !== "#") {
+        window.open(url, "_blank", "noopener,noreferrer");
+      }
+    });
+  });
 }
 
 document.getElementById("search-form").addEventListener("submit", function (e) {
@@ -1297,16 +1791,6 @@ document
 document.getElementById("reset-button").addEventListener("click", function () {
   displayAllVideos();
 });
-
-function attachClickHandlers() {
-  const videoCards = document.querySelectorAll(".video-card");
-  videoCards.forEach((card) => {
-    card.addEventListener("click", function () {
-      const url = this.getAttribute("data-url");
-      window.open(url, "_blank");
-    });
-  });
-}
 
 window.onload = function () {
   displayAllVideos();

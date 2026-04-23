@@ -119,9 +119,17 @@ button {
 
 .search-status {
   text-align: center;
-  margin: 0.5rem 0 1.5rem;
+  margin: 0.5rem 0 0.5rem;
   color: var(--text-muted);
   font-size: 0.95rem;
+}
+
+.page-info {
+  text-align: center;
+  margin: 0 0 1.4rem;
+  color: #d5dbe6;
+  font-size: 0.92rem;
+  opacity: 0.85;
 }
 
 /* VIDEO GRID */
@@ -131,7 +139,7 @@ button {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 1.6rem;
-  padding: 1rem 1.2rem 3rem;
+  padding: 1rem 1.2rem 2rem;
 }
 
 /* VIDEO CARD */
@@ -244,6 +252,52 @@ button {
   border-radius: 18px;
 }
 
+/* PAGINATION */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.45rem;
+  flex-wrap: wrap;
+  margin: 0 auto 2.5rem;
+  padding: 0 1rem;
+}
+
+.pagination-btn {
+  border: none;
+  border-radius: 12px;
+  padding: 0.75rem 1rem;
+  min-width: 46px;
+  background: var(--dark-btn);
+  color: var(--text);
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.25s ease;
+}
+
+.pagination-btn:hover:not(:disabled) {
+  background: var(--dark-btn-hover);
+  transform: translateY(-2px);
+}
+
+.pagination-btn.active {
+  background: linear-gradient(135deg, var(--accent), #ff7b00);
+  color: #111;
+  box-shadow: 0 8px 20px rgba(255, 159, 28, 0.28);
+}
+
+.pagination-btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.pagination-dots {
+  color: var(--text-muted);
+  padding: 0 0.25rem;
+  font-weight: 700;
+}
+
 /* FOOTER */
 footer {
   text-align: center;
@@ -275,5 +329,10 @@ footer {
 
   .thumbnail {
     height: 210px;
+  }
+
+  .pagination-btn {
+    padding: 0.7rem 0.9rem;
+    min-width: 42px;
   }
 }
